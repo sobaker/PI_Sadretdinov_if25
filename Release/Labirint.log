@@ -1,9 +1,1 @@
-﻿  Source.cpp
-E:\Downloads\Labirint\Source.cpp(36,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-E:\Downloads\Labirint\Source.cpp(109,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-E:\Downloads\Labirint\Source.cpp(110,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Previous IPDB not found, fall back to full compilation.
-  Создание кода
-  All 193 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  Labirint.vcxproj -> E:\Downloads\Labirint\x64\Release\Labirint.exe
+
