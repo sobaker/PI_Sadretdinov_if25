@@ -1,1 +1,1 @@
-E:\Downloads\Labirint\x64\Release\Labirint.exe
+E:\Labirint\x64\Release\Labirint.exe
